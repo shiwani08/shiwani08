@@ -1,6 +1,6 @@
 ### Hi there GEEKORDIAN here!!
 
-<img src="https://cliply.co/clip/robot-waving.gif">
+<img src="https://tenor.com/view/robot-wave-waving-gif-11231238.gif">
 
 - 🔭 I’m currently working on ... my time management 
 - 🌱 I’m currently learning ... web development
