@@ -1,4 +1,6 @@
-### Hi there <img src="https://gifer.com/en/YIgS.gif"> GEEKORDIAN here!!
+### Hi there GEEKORDIAN here!!
+
+<img src="https://cliply.co/clip/robot-waving.gif">
 
 - 🔭 I’m currently working on ... my time management 
 - 🌱 I’m currently learning ... web development
