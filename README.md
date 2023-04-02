@@ -1,4 +1,4 @@
-### Hi there <img src="https://tenor.com/view/wave-hello-emote-flat-waving-gif-22026836"> GEEKORDIAN here!!
+### Hi there <img src="https://tenor.com/view/wave-hello-emote-flat-waving-gif-22026836.gif"> GEEKORDIAN here!!
 
 - 🔭 I’m currently working on ... my time management 
 - 🌱 I’m currently learning ... web development
@@ -21,6 +21,6 @@
     <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=Leetcode&logoColor=black" alt="Leetcode Badge"/>
   </a>
   <a href="https://auth.geeksforgeeks.org/user/shiwanisoni29082002">
-    <img src="https://img.shields.io/badge/GeeksForGeeks-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks Badge"/>
+    <img src="https://img.shields.io/badge/GeeksForGeeks-#023020?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks Badge"/>
   </a>
 </div>
