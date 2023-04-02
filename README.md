@@ -1,4 +1,4 @@
-### Hi there <img src="https://tenor.com/view/waving-hand-joypixels-hi-hello-hey-there-gif-17554626.gif" width="25" heigth="25"> GEEKORDIAN here!!
+### Hi there <div style="padding-top:114.400%;position:relative;"><iframe src="https://gifer.com/embed/YIgS" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p> GEEKORDIAN here!!
 
 - 🔭 I’m currently working on ... my time management 
 - 🌱 I’m currently learning ... web development
