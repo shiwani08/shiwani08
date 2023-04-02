@@ -1,4 +1,4 @@
-### Hi there <img src="https://tenor.com/view/get-greeting-get-greetings-waving-hands-hey-hand-wave-gif-8895078247757219014.gif" width="25" heigth="25"> GEEKORDIAN here!!
+### Hi there <img src="https://tenor.com/view/waving-hand-joypixels-hi-hello-hey-there-gif-17554626.gif" width="25" heigth="25"> GEEKORDIAN here!!
 
 - 🔭 I’m currently working on ... my time management 
 - 🌱 I’m currently learning ... web development
