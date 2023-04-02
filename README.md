@@ -1,4 +1,4 @@
-### Hi there <img src="https://tenor.com/view/smiley-emoji-emoticons-cute-raise-hand-gif-16994963.gif"> GEEKORDIAN here!!
+### Hi there <img src="https://tenor.com/view/smiley-emoji-emoticons-cute-raise-hand-gif-16994963.gif" width="10" heigth="10"> GEEKORDIAN here!!
 
 - 🔭 I’m currently working on ... my time management 
 - 🌱 I’m currently learning ... web development
