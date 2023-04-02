@@ -1,6 +1,5 @@
-
-    <u><b>Hi there</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25vw" width="25vw"> <b>GEEKORDIAN here!!</b><br>
-        <p><img src=https://komarev.com/ghpvc/?username=shiwani08 alt=shiwanisoni/></p>
+### <b>Hi there </b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25vw" width="25vw"> <b>GEEKORDIAN here!!</b><br>
+  <p><img src=https://komarev.com/ghpvc/?username=shiwani08 alt=shiwanisoni/></p>
         <div align="left">
     - <img alt="gif" src="https://media.giphy.com/media/ZCZDBEJ0aOt52oIGdB/giphy.gif" height="25vw" width="25vw"> I’m currently working on ... my time management <br>
     - <img alt="gif" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" height="25vw" width="25vw"> I’m currently learning ... web development<br>
