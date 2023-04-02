@@ -1,4 +1,4 @@
-### Hi there <div style="padding-top:114.400%;position:relative;"><iframe src="https://gifer.com/embed/YIgS" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p> GEEKORDIAN here!!
+### Hi there <img src="https://gifer.com/en/YIgS.gif"> GEEKORDIAN here!!
 
 - 🔭 I’m currently working on ... my time management 
 - 🌱 I’m currently learning ... web development
