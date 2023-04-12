@@ -64,3 +64,6 @@
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiwani08" alt="shiwani08" />
         </a>
         </p>
+<h3 align="left"><img src="https://tenor.com/view/frutti-dino-banana-frutti-dino-jumping-banana-dino-gif-25770547.gif" height="30" width="30"> HOLOPIN CORNER</h3>
+<a href='[![An image of @shiwani08's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shiwani08)](https://holopin.io/@shiwani08)>
+</a>
