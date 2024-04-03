@@ -33,6 +33,12 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/</a>
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/</a>
+      <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="git" width="40" height="40"/</a>
+      <a href="https://www.android.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="git" width="40" height="40"/</a>
+      <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="git" width="40" height="40"/</a>
 </p>
 
 <h3 align="left"><img src="https://media.giphy.com/media/wp2rA9gXbKXo0KzTjD/giphy.gif" height="30" width="30"> FIND ME ON:</h3>
