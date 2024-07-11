@@ -67,7 +67,7 @@
         <a >
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=shiwani08&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="shiwani08 stats card"></a>
         <a href="https://github.com/ryo-ma/github-profile-trophy">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek26102002" alt="abhishek26102002" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiwani08" alt="shiwani08" />
         </a>
         </p>
 <h3 align="left"><img src="https://tenor.com/view/frutti-dino-banana-frutti-dino-jumping-banana-dino-gif-25770547.gif" height="30" width="30"> HOLOPIN CORNER</h3>
