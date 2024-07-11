@@ -39,6 +39,14 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="git" width="40" height="40"/</a>
       <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="git" width="40" height="40"/</a>
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="git" width="40" height="40"/</a>
+      <a href="https://www.expressjs.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="git" width="40" height="40"/</a>
+        <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="git" width="40" height="40"/</a>
+      <a href="https://www.nodejs.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="git" width="40" height="40"/</a>
 </p>
 
 <h3 align="left"><img src="https://media.giphy.com/media/wp2rA9gXbKXo0KzTjD/giphy.gif" height="30" width="30"> FIND ME ON:</h3>
