@@ -64,12 +64,17 @@
 </div>
         
 <h3 align="left"><img src="https://media.giphy.com/media/AynUwd5uKhIevEWx54/giphy.gif" height="30" width="30"> MY GITHUB STATS</h3>
-        <a >
+<!--         <a >
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=shiwani08&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="shiwani08 stats card"></a>
         <a href="https://github.com/ryo-ma/github-profile-trophy">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiwani08" alt="shiwani08" />
         </a>
-        </p>
+        </p> -->
+        ## Statistics <img src="https://media.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" height="34px"/>
+<p>           
+<img src="https://github-readme-stats.vercel.app/api?username=shiwani08&theme=dark&show_icons=true&hide_border=true&include_all_commits=true" height="200em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiwani08&size_weight=1&count_weight=0&theme=dark&layout=compact&langs_count=10&hide_border=true" height="200em"/>
+</p>
 <h3 align="left"><img src="https://tenor.com/view/frutti-dino-banana-frutti-dino-jumping-banana-dino-gif-25770547.gif" height="30" width="30"> HOLOPIN CORNER</h3>
 <a href='[![An image of @shiwani08's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shiwani08)](https://holopin.io/@shiwani08)>
 </a>
