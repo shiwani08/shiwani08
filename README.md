@@ -39,6 +39,10 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="git" width="40" height="40"/</a>
       <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="git" width="40" height="40"/</a>
+      <a href="https://dart.dev/" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="git" width="40" height="40"/</a>
+      <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="git" width="40" height="40"/</a>
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="git" width="40" height="40"/</a>
       <a href="https://www.expressjs.com/" target="_blank" rel="noreferrer"> 
