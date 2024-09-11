@@ -5,7 +5,9 @@
     - <img alt="gif" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" height="25vw" width="25vw"> I’m currently learning ... android development<br>
     - <img alt="gif" src="https://media.giphy.com/media/l46Cedh27PeAL3fa0/giphy.gif" height="25vw" width="25vw"> Ask me about ... java, web development, astronomy, binge watching and sleeping<br>
     - <img alt="gif" src="https://media.giphy.com/media/ei4FvYnmhWIhpRZXOe/giphy.gif" height="25vw" width="25vw">Pronouns: ... she/her<br>
-    - <img alt="gif" src="https://media.giphy.com/media/eE5o3iRnrmeealcbNe/giphy.gif" height="25vw" width="25vw"> Fun fact: ... i am feeling really sleepy right now :)<br>
+    - <img alt="gif" src="https://media.giphy.com/media/eE5o3iRnrmeealcbNe/giphy.gif" height="25vw" width="25vw"> Fun fact: ... I am feeling really sleepy right now :)<br>
+    - <img alt="gif" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzI0bXI3cTB6bXhuNmoxcHhjeDB2dG5uZW13OHMzdms2bzF6bzB6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JL4ON1dqMHKpi/giphy.gif" height="25vw" width="25vw"> Fun fact 2: ... I am MAD (Mobile App Developer)
+          <br>
     <img src="https://media.giphy.com/media/Q2T7BXRiDFPJcPoA7Z/giphy.gif">
 </div>
 
