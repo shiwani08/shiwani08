@@ -88,6 +88,7 @@
 <p>           
 <img src="https://github-readme-stats.vercel.app/api?username=shiwani08&theme=dark&show_icons=true&hide_border=true&include_all_commits=true" height="150em"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiwani08&size_weight=1&count_weight=0&theme=dark&layout=compact&langs_count=10&hide_border=true" height="200em"/>
+<a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=shiwani08&theme=dark&size_weight=1"alt="GitHub Streak" /></a>
 </p>
 <!-- <h3 align="left"><img src="https://tenor.com/view/frutti-dino-banana-frutti-dino-jumping-banana-dino-gif-25770547.gif" height="30" width="30"> HOLOPIN CORNER</h3>
 <a href='[![An image of @shiwani08's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shiwani08)](https://holopin.io/@shiwani08)>
